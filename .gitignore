@@ -1,0 +1,195 @@
+#Mac 
+.DS_Store
+log/
+logs/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+#   For a library or package, you might want to ignore these files since the code is
+#   intended to run in multiple environments; otherwise, check them in:
+# .python-version
+
+# pipenv
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not
+#   install all needed dependencies.
+#Pipfile.lock
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+mytest/
+myscript/
+src/controller_zr
+# src/data_handler
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# local_test_unit_scripts
+unit_test_local.py
+test_local_acc.py
+
+data/wikipedia
+.vscode
+gunicorn.pid
+
+# local test
+src/_handle_intent_wikipedia
+data/poetry/_sentence_from_sql/
+
+卢鑫/
+tmp/
+word.txt.gz
+wordninja_words_2w.txt.gz
+wordninja_words_5w.txt
+wordninja_words_5w copy.txt
+reg_data.reg.copy
+fr_reg_data copy.reg
+test.txt
+fr_reg_data.reg
+rushin_test
+wakeup_reg.py
+src/intent_classify/intent_en_dic/config/dp.py
+wordninja_words_5w1.txt
+intent_poem_hy
+unit_test_rs.py
+/Users/tal/Desktop/TAL/xiaohou/demo_7_23/monkey_light_demo/src/handle_intent_poem/ES_helper
+/share_v3/rushin/monkey_demo/monkey_light_demo/src/handle_intent_poem/ES_helper/tmp
+
+.idea/
+my_wj/
+/src/intent_classify/intent_zh_to_en/logs/
+
+test/data/test.py
+data/model
+test/*
+
+/logs
+#jieba
+/web/logs/
+jieba.cache
+src/intent_classify/intent_functional/test_data/
+model/
+src/controller/request_main.py
+src/intent_classify/intent_functional/nohup.out
+src/intent_classify/intent_functional/semantic_embed_roberta/
