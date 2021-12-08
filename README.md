@@ -14,7 +14,7 @@ To develop locally, please follow the instruction below:
 
 # Data Preparation
 
-Please convert your data into a csv data file of correct format,which contains a *label* column which stand for the category(0/1).
+Please convert your data into a csv data file of correct format, which contains a *label* column which stand for the category(0/1).
 The rest columns are the feature columns. Two example data sets are stored in `data` folder.
 
 # Train & Test
