@@ -15,7 +15,9 @@ To develop locally, please follow the instruction below:
 # Data Preparation
 
 Please convert your data into three csv data files (train.csv, valid.csv, test.csv) of correct format, each of which contains a *label* column which stand for the category(0/1).
-The rest columns are the feature columns. Two example data sets are stored in `data` folder.
+The rest columns are the feature columns. 
+
+Two example data sets used in the paper are stored in `data` folder.
 
 # Train & Test
 
