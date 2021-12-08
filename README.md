@@ -31,19 +31,6 @@ You can test the model as follow:
     cd src/
     python inference_neucrowd.py your_data_set_path
 
-# Citation
-
-If you use this code in your research, you can cite our arxiv paper:
-    
-    @misc{hao2021neucrowd,
-          title={NeuCrowd: Neural Sampling Network for Representation Learning with Crowdsourced Labels}, 
-          author={Yang Hao and Wenbiao Ding and Zitao Liu},
-          year={2021},
-          eprint={2003.09660},
-          archivePrefix={arXiv},
-          primaryClass={cs.LG}
-    }
-
 # Contact
 
 If you have any problem to the project, please feel free to report them as issues.
