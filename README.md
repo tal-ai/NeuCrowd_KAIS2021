@@ -27,7 +27,8 @@ You can train the model as follow:
     python trainRLL.py your_data_set_path
 
 You can test the model as follow:
-
+    
+    cd src/
     python inference_neucrowd.py your_data_set_path
 
 # Citation
