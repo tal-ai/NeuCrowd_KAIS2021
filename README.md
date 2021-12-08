@@ -1,5 +1,5 @@
 # NeuCrowd
-This repository is the implementation of *'NeuCrowd: Neural Sampling Network for Representation Learning with Crowdsourced Labels'*
+This repository is the implementation of *'NeuCrowd: Neural Sampling Network for Representation Learning with Crowdsourced Labels'*.
 
 # Dependencies
 
